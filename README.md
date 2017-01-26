@@ -1,4 +1,5 @@
 #     -  House Search - 
+![alt text](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPI2ftgKS4tk4J2PMEyg7HBrdF7UBuG4cWPe8GV5SduwI0ImJl "Logo Title Text 1")
 #### your own real-estate guy.inside.your.computer!
 ---
 
@@ -12,7 +13,7 @@ it emails you with an suggestion of houses for you to check.
 
 put it under a cron job, and you'll control
 
-![alt text](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPI2ftgKS4tk4J2PMEyg7HBrdF7UBuG4cWPe8GV5SduwI0ImJl "Logo Title Text 1")
+
 
 
 
