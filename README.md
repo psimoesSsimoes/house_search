@@ -4,7 +4,10 @@
 
 ### Description
 
-provided an link with from olx or sapo.casas, for a spefic location (let's say for example vendas novas in Evora: https://www.olx.pt/imoveis/vendasnovas-evora/?search[description]=1&search[order]=filter_float_price%)
+provided an link with from olx or sapo.casas, for a specific location like vendas novas in Évora, like the one bellow: 
+
+	https://www.olx.pt/imoveis/vendasnovas-evora/?search[description]=1&search[order]=filter_float_price%
+
 it emails you with an suggestion of houses for you to check.
 
 put it under a cron job, and you'll control
